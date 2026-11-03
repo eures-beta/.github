@@ -8,6 +8,18 @@
 
 > _Décrivez en quelques mots la solution retenue et mise en oeuvre, les difficultés ou problèmes rencontrés. Attirez l'attention sur les décisions d'architecture ou de conception importantes._
 
+## Quelles applications Django sont modifiées ou créées ?
+
+> _Listez les applications Django modifiées et celles nouvellement créées, en précisant leur rôle et les changements apportés. Signalez aussi les applications supprimées. S’il n’y en a aucune, indiquez « Aucune » ; pour un dépôt sans Django, indiquez « Sans objet »._
+
+## Quels modèles Django sont modifiés ou créés ?
+
+> _Listez les modèles modifiés et nouvellement créés. Précisez les champs, relations et contraintes concernés, les migrations nécessaires et les modèles supprimés. Indiquez si les modèles existants et leurs données sont conservés. En l’absence de changement, indiquez « Aucun » ; pour un dépôt sans Django, indiquez « Sans objet »._
+
+## Quelles nouvelles données sont sauvegardées en base de données ?
+
+> _Décrivez les informations nouvellement enregistrées, dans quelles tables ou quels modèles, à quel moment et pour quelle durée. Incluez les brouillons et sessions, même sans nouveau modèle métier. Signalez les données personnelles, les modifications ou suppressions de données existantes et, si aucune nouvelle donnée n’est enregistrée, indiquez-le explicitement._
+
 ## :rotating_light: À vérifier
 
 - [ ] Signaler les éventuels changements incompatibles, migrations ou changements de configuration.
