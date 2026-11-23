@@ -45,4 +45,12 @@
 
 > _Les instructions pour reproduire le problème, les profils de test, le parcours spécifique à utiliser, etc. Si vous disposez d'une recette jetable, mettre l'URL pour tester dans cette partie._
 
-## :computer: Captures d'écran <!-- optionnel -->
+## :computer: Captures d'écran <!-- recommandé pour les changements visuels -->
+
+> _Pour un changement visuel (page, composant, e-mail…), privilégiez une à trois captures ou aperçus pertinents pour faciliter la revue. Montrez un avant/après lorsque cela aide ; ajoutez une vue mobile et/ou ordinateur si le changement le justifie._
+
+> _Insérez les images directement dans cette description avec des liens GitHub accessibles aux relecteurs, pour qu'elles s'affichent sans devoir ouvrir un fichier local. Un simple chemin sur votre ordinateur ne convient pas._
+
+> _Utilisez des données fictives et masquez les informations personnelles, secrets et liens de connexion réels. Précisez brièvement ce que montre chaque capture et s'il s'agit d'un aperçu local ou d'un rendu dans l'application ou le client e-mail réel._
+
+> _Si aucune capture n'apporte d'information utile, indiquez « Sans objet »._
