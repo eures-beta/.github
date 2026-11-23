@@ -16,6 +16,16 @@
 
 > _Expliquez le parcours et le fonctionnement dans un langage accessible : qui fait quoi, dans quel ordre, avec quelles limites. Réservez les détails de schéma et de migration aux sections modèles._
 
+## :computer: Aperçu des changements visuels
+
+> _Pour un changement visuel (page, composant, e-mail…), montrez en priorité un avant/après avec les mêmes données et un cadrage comparable. Choisissez quelques exemples représentatifs : six images maximum au total, avant et après compris. Ajoutez une vue mobile et/ou ordinateur seulement si elle apporte une information utile._
+
+> _Insérez les images directement dans cette description avec des liens GitHub accessibles aux relecteurs, pour qu'elles s'affichent sans ouvrir un fichier local. Légendez chaque exemple et identifiez clairement « Avant » et « Après »._
+
+> _Utilisez des données fictives et masquez les informations personnelles, secrets et liens de connexion réels. Précisez s'il s'agit d'un aperçu local ou d'un rendu dans l'application ou le client e-mail réel._
+
+> _Si aucune capture n'apporte d'information utile, indiquez « Sans objet »._
+
 ## :seedling: Quels modèles Django sont créés ?
 
 > _Listez les nouveaux modèles, leur rôle, les champs, relations et contraintes importants et les migrations nécessaires. Indiquez « Aucun » ou « Sans objet » pour un dépôt sans Django._
@@ -44,13 +54,3 @@
 ## :desert_island: Comment tester ?
 
 > _Les instructions pour reproduire le problème, les profils de test, le parcours spécifique à utiliser, etc. Si vous disposez d'une recette jetable, mettre l'URL pour tester dans cette partie._
-
-## :computer: Captures d'écran <!-- recommandé pour les changements visuels -->
-
-> _Pour un changement visuel (page, composant, e-mail…), privilégiez une à trois captures ou aperçus pertinents pour faciliter la revue. Montrez un avant/après lorsque cela aide ; ajoutez une vue mobile et/ou ordinateur si le changement le justifie._
-
-> _Insérez les images directement dans cette description avec des liens GitHub accessibles aux relecteurs, pour qu'elles s'affichent sans devoir ouvrir un fichier local. Un simple chemin sur votre ordinateur ne convient pas._
-
-> _Utilisez des données fictives et masquez les informations personnelles, secrets et liens de connexion réels. Précisez brièvement ce que montre chaque capture et s'il s'agit d'un aperçu local ou d'un rendu dans l'application ou le client e-mail réel._
-
-> _Si aucune capture n'apporte d'information utile, indiquez « Sans objet »._
