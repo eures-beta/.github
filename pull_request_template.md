@@ -22,6 +22,10 @@
 
 > _Insérez les images directement dans cette description avec des liens GitHub accessibles aux relecteurs, pour qu'elles s'affichent sans ouvrir un fichier local. Légendez chaque exemple et identifiez clairement « Avant » et « Après »._
 
+> _Pour les captures destinées uniquement à la relecture, utilisez les pièces jointes de l’éditeur GitHub : coller, glisser-déposer ou sélectionner le fichier, puis réutiliser le lien `https://github.com/user-attachments/...` généré dans la description. Vérifiez que l’envoi est terminé et que les images s’affichent avec les droits des relecteurs._
+
+> _Ne commitez pas ces captures dans le dépôt et ne créez pas de branche, de commit ou de PR uniquement pour héberger les images. Cette règle ne concerne pas les véritables ressources du produit ou d’une documentation durable lorsqu’elles font partie du changement demandé. Si l’outil ne permet pas de joindre une image, utilisez l’interface GitHub ou signalez la limite ; ne contournez pas cette limite en ajoutant les captures au code._
+
 > _Utilisez des données fictives et masquez les informations personnelles, secrets et liens de connexion réels. Précisez s'il s'agit d'un aperçu local ou d'un rendu dans l'application ou le client e-mail réel._
 
 > _Si aucune capture n'apporte d'information utile, indiquez « Sans objet »._
