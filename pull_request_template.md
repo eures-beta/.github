@@ -22,6 +22,8 @@
 
 > _Présentez « Avant » puis « Après » verticalement, une image par ligne occupant toute la largeur disponible. Pas de tableau ni de colonnes côte à côte, pas de largeur HTML réduite. Recadrez les marges vides et l’interface extérieure inutiles en préservant le contexte nécessaire, les libellés et l’état comparé. Utilisez un cadrage identique avant/après. Générez une résolution suffisante pour lire le texte directement dans la description (viser au moins 1 400 pixels de large pour un écran ordinateur ; conserver la largeur native d’un vrai écran mobile). Ne grossissez pas artificiellement une petite image : régénérez-la à la source. Vérifiez la lisibilité dans la description GitHub sans devoir ouvrir un nouvel onglet._
 
+> _Montrez l’apparence destinée à la production avec des données fictives : le bandeau de démonstration/recette et les commandes de changement de compte fictif ne doivent pas apparaître dans les aperçus ordinaires. Conservez-les uniquement lorsque le changement présenté concerne précisément ce bandeau ou le sélecteur de comptes fictifs. Masquez-les seulement pour préparer l’aperçu (rendu local ou session de capture), sans désactiver leur affichage ni leurs protections sur la recette elle-même. Vérifiez ensuite le cadrage pour supprimer les marges qu’ils pouvaient imposer._
+
 > _Insérez les images directement dans cette description avec des liens GitHub accessibles aux relecteurs, pour qu'elles s'affichent sans ouvrir un fichier local. Légendez chaque exemple et identifiez clairement « Avant » et « Après »._
 
 > _Pour les captures destinées uniquement à la relecture, utilisez les pièces jointes de l’éditeur GitHub : coller, glisser-déposer ou sélectionner le fichier, puis réutiliser le lien `https://github.com/user-attachments/...` généré dans la description. Vérifiez que l’envoi est terminé et que les images s’affichent avec les droits des relecteurs._
@@ -60,4 +62,5 @@
 ## :desert_island: Comment tester ?
 
 > _Les instructions pour reproduire le problème, les profils de test, le parcours spécifique à utiliser, etc. Si vous disposez d'une recette jetable, mettre l'URL pour tester dans cette partie._
+
 
